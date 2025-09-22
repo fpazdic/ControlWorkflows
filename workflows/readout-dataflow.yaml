@@ -111,6 +111,7 @@ defaults:
       - ctp-reco-12dec-HI-ZNC-TCE
       - ctp-reco-qc
       - ctp-reco-3dec-qc
+      - ctp-reco-3dec-qc-dev
       - ctp-reco-6dec-qc
       - ctp-reco-12dec-qc
       - ctp-reco-16dec-qc
